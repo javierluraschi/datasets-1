@@ -3,3 +3,6 @@
   rows: 150
   cols: 5
   type: table
+- path: afile121
+  name: afile121
+  type: files
