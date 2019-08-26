@@ -6,3 +6,8 @@
 - path: afile837
   name: afile837
   type: files
+- path: adataset863
+  name: adataset863
+  rows: 150
+  cols: 5
+  type: table
