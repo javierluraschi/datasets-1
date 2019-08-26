@@ -6,3 +6,8 @@
 - path: afile52
   name: afile52
   type: files
+- path: adataset95
+  name: adataset95
+  rows: 150
+  cols: 5
+  type: table
