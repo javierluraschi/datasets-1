@@ -3,8 +3,3 @@
   rows: 150
   cols: 5
   type: table
-- path: adataset279
-  name: adataset279
-  rows: 150
-  cols: 5
-  type: table
