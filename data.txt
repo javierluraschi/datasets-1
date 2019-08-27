@@ -8,9 +8,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile335
-  name: afile335
-  type: files
 - path: adataset718
   name: adataset718
   rows: 150
