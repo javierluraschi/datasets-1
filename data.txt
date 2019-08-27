@@ -3,9 +3,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile259
-  name: afile259
-  type: files
 - path: adataset609
   name: adataset609
   rows: 150
