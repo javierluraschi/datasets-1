@@ -8,8 +8,3 @@
   rows: 150
   cols: 5
   type: table
-- path: adataset811
-  name: adataset811
-  rows: 150
-  cols: 5
-  type: table
