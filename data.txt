@@ -8,3 +8,6 @@
   rows: 150
   cols: 5
   type: table
+- path: afile335
+  name: afile335
+  type: files
