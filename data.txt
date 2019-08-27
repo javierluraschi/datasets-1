@@ -16,3 +16,6 @@
   rows: 150
   cols: 5
   type: table
+- path: afile32
+  name: afile32
+  type: files
