@@ -19,3 +19,8 @@
 - path: afile862
   name: afile862
   type: files
+- path: adataset167
+  name: adataset167
+  rows: 150
+  cols: 5
+  type: table
