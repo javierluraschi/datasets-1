@@ -16,9 +16,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile802
-  name: afile802
-  type: files
 - path: adataset430
   name: adataset430
   rows: 150
