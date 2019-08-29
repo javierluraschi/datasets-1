@@ -16,3 +16,6 @@
   rows: 150
   cols: 5
   type: table
+- path: afile54
+  name: afile54
+  type: files
