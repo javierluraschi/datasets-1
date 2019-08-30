@@ -19,3 +19,8 @@
 - path: afile915
   name: afile915
   type: files
+- path: adataset818
+  name: adataset818
+  rows: 150
+  cols: 5
+  type: table
