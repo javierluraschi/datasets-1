@@ -19,3 +19,8 @@
 - path: afile240
   name: afile240
   type: files
+- path: adataset576
+  name: adataset576
+  rows: 150
+  cols: 5
+  type: table
