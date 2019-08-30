@@ -16,9 +16,6 @@
   rows: 150
   cols: 5
   type: table
-- path: afile142
-  name: afile142
-  type: files
 - path: adataset226
   name: adataset226
   rows: 150
